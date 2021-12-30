@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @apotter-dixon
 - 👀 I’m interested in automating things in my life.
-- 🌱 I’m currently learning MUI
 
 
 <!---
